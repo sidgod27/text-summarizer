@@ -1,23 +1,8 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
+rount to complete the project
+      install transformer in vs code by write command in terminal [pip install transformer]
+      install Torch in vs code by write command in terminal [pip install torch]
+      import on github
+      Thanks to perplexity.ai tool  
 
-# Virtual environment
-venv/
-env/
-.venv/
 
-# VS Code
-.vscode/
-
-# PyTorch / Transformers caches
-~/.cache/huggingface/
-.cache/
-
-# Jupyter
-*.ipynb_checkpoints
-
-# OS files
-Thumbs.db
-Desktop.ini
+First time i write that kind of code and it take to much time but i enjoy the Journey 
