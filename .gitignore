@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyTorch / Transformers caches
+~/.cache/huggingface/
+.cache/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# OS files
+Thumbs.db
+Desktop.ini
